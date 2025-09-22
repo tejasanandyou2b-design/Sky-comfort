@@ -1,0 +1,5 @@
+{
+  "name": "ClearSkies",
+  "description": "An AI-powered weather dashboard that provides a comfort index, visual breakdowns, weather stories, and personalized activity suggestions.",
+  "requestFramePermissions": []
+}
